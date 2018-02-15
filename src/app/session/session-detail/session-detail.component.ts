@@ -3,6 +3,7 @@ import { Session } from "../session";
 
 const sessions = require("../../../data/sessions-preview.json");
 
+// TODO
 @Component({
   selector: 'app-session-detail',
   templateUrl: './session-detail.component.html',
