@@ -6,9 +6,9 @@ import "rxjs/operator/publishReplay";
 const  sessions = require("../../data/sessions.json");
 
 // TODO označte službu jako injektovatelnou
-
+// popis description  dsad dsgfdsg dsfd
 export class SessionDataService {
-
+ 
   constructor() {
   }
 
