@@ -2,7 +2,7 @@ import { Component, OnInit } from "@angular/core";
 import { Session } from "../session";
 
 const sessions = require("../../../data/sessions-preview.json");
-
+// TODO 1
 @Component({
   selector: 'app-session-detail',
   templateUrl: './session-detail.component.html',
